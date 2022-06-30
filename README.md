@@ -1,4 +1,4 @@
-## PK-PD-Model-Visualization
+## Pharmacokinetics (PK)-Pharmacodynamics (PD) Model Visualization
 
 * Title: PK-PD Model Visualizaiton Shiny App
 
