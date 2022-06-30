@@ -5,8 +5,8 @@
 * Author: Hsiao-Chen Dina Kuo
 
 * Purpose: <br>
-1. PK analysis: Visualize observed and predicted plasma concentration–time profiles of different dosing routes
-2. PD analysis: Visualize observed and predicted mRNA expression (Effect) to time profiles of different dosing routes
+  1. PK analysis: Visualize observed and predicted plasma concentration–time profiles of different dosing routes
+  2. PD analysis: Visualize observed and predicted mRNA expression (Effect) to time profiles of different dosing routes
 
 * Date: May 2022
 
